@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.tests.AmazonTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.tests.AmazonTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="pageInstantiation"/>
+          <include name="aboutThisItem_test"/>
+          <include name="init"/>
+          <include name="logging"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.tests.AmazonTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.tests.AmazonTest] -->

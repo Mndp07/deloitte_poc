@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.tests.AmazonTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="pageInstantiation"/>
+          <include name="aboutThisItem_test"/>
+          <include name="init"/>
+          <include name="logging"/>
+        </methods>
+      </class> <!-- com.tests.AmazonTest -->
+      <class name="com.tests.Deloitte_Careers_Test">
+        <methods>
+          <include name="tearDown"/>
+          <include name="aboutThisItem_test"/>
+          <include name="quit"/>
+          <include name="pageInstantiation"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.tests.Deloitte_Careers_Test -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

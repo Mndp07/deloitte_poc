@@ -1,0 +1,683 @@
+2022-07-09T13:14:01,153 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T13:14:04,959 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T13:14:06,986 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T13:14:06,988 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T13:14:08,389 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:14:08,420 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T13:14:08,865 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T13:14:09,869 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:14:09,980 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T13:14:12,029 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T13:14:23,340 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T13:14:24,383 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T13:14:24,431 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:14:32,430 [main] INFO  (Log.java:22) - Method to retrieve the text from the UI
+2022-07-09T13:14:32,836 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T13:14:32,841 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T13:14:32,842 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T13:42:58,888 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T13:43:02,010 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T13:43:03,776 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T13:43:03,780 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T13:43:05,128 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:43:05,155 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T13:43:05,593 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T13:43:06,648 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:43:06,718 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T13:43:08,970 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T13:43:10,805 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T13:43:42,231 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T13:43:45,064 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T13:43:47,011 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T13:43:47,014 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T13:43:48,404 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:43:48,421 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T13:43:48,744 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T13:43:49,749 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:43:49,878 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T13:43:52,281 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T13:43:54,204 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T13:46:33,354 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T13:46:36,174 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T13:46:38,091 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T13:46:38,100 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T13:46:39,565 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:46:39,620 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T13:46:39,963 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T13:46:41,056 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:46:41,192 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T13:46:43,395 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T13:46:45,264 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T13:49:26,385 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T13:49:29,505 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T13:49:31,467 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T13:49:31,482 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T13:49:32,694 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:49:32,715 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T13:49:33,152 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T13:49:34,183 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:49:34,308 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T13:49:36,080 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T13:49:45,571 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T13:49:46,343 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T13:49:46,397 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:49:54,648 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T13:49:56,924 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T13:49:57,084 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T13:49:58,235 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T13:49:58,390 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T13:52:39,989 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T13:52:43,335 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T13:52:45,667 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T13:52:45,670 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T13:52:46,923 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:52:46,969 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T13:52:47,207 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T13:52:48,315 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:52:48,467 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T13:52:50,360 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T13:52:58,073 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T13:52:58,598 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T13:52:59,333 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:53:06,205 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T13:53:08,535 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T13:53:08,683 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T13:53:09,845 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T13:53:09,975 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T13:56:30,587 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T13:56:33,448 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T13:56:35,490 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T13:56:35,493 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T13:56:36,909 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:56:36,972 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T13:56:37,299 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T13:56:38,471 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T13:56:38,585 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T13:56:40,480 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T13:57:40,670 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T13:57:41,092 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T14:01:26,396 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T14:01:29,158 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T14:01:31,544 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T14:01:31,548 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T14:01:32,852 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:01:32,890 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T14:01:33,186 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T14:01:34,219 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:01:34,362 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T14:01:36,227 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T14:01:38,100 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T14:01:39,507 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T14:01:39,548 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:01:50,268 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T14:01:51,773 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T14:01:52,539 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T14:04:41,297 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T14:04:44,609 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T14:04:46,760 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T14:04:46,765 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T14:04:48,117 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:04:48,160 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T14:04:48,449 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T14:04:49,530 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:04:49,679 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T14:04:51,460 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T14:04:51,774 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T14:04:52,020 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T14:04:52,075 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:04:58,053 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T14:05:00,432 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T14:05:00,587 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T14:05:01,953 [main] INFO  (Log.java:22) - Method to send password details
+2022-07-09T14:05:19,576 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T14:05:19,767 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T14:06:43,854 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T14:06:46,625 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T14:06:48,567 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T14:06:48,575 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T14:06:49,866 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:06:49,973 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T14:06:50,278 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T14:06:51,307 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:06:51,452 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T14:06:53,348 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T14:06:54,145 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T14:06:54,894 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T14:06:54,981 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:07:00,851 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T14:07:03,282 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T14:07:03,420 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T14:07:04,439 [main] INFO  (Log.java:22) - Method to send password details
+2022-07-09T14:08:04,642 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T14:08:04,840 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T14:08:38,697 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T14:08:41,485 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T14:08:43,991 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T14:08:43,995 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T14:08:45,401 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:08:45,428 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T14:08:45,743 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T14:08:46,853 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:08:47,017 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T14:08:48,758 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T14:08:49,093 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T14:08:50,256 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T14:08:50,309 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:08:56,231 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T14:08:58,481 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T14:08:58,662 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T14:09:00,105 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T14:09:30,166 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T14:09:30,363 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T14:09:48,641 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T14:09:51,426 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T14:09:53,608 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T14:09:53,613 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T14:09:54,824 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:09:54,840 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T14:09:55,131 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T14:09:56,238 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:09:56,383 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T14:09:58,268 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T14:09:59,846 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T14:10:00,563 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T14:10:00,609 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:10:08,414 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T14:10:10,263 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T14:10:10,401 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T14:10:11,536 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T14:10:41,646 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T14:10:41,829 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T14:12:21,052 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T14:12:23,826 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T14:12:25,596 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T14:12:25,596 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T14:12:26,862 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:12:26,882 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T14:12:27,320 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T14:12:28,383 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:12:28,461 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T14:12:30,367 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T14:12:30,851 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T14:12:31,762 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T14:12:31,814 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T14:12:37,906 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T14:12:40,418 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T14:12:40,561 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T14:12:41,671 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T14:12:41,759 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T14:12:41,761 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T14:12:41,762 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:24:42,835 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:24:42,920 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:24:45,800 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:24:48,013 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:24:48,022 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:24:49,382 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:24:49,413 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:24:49,765 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:24:50,838 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:24:50,972 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:24:52,588 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:24:53,108 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:24:53,540 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:24:53,580 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:25:00,510 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:25:02,942 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T15:25:03,109 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T15:25:04,578 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T15:25:04,660 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T15:25:04,660 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:25:04,660 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:25:05,550 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:25:07,160 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:25:10,698 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:25:10,698 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:25:10,727 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:25:11,218 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:27:38,153 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:27:38,224 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:27:41,037 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:27:43,091 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:27:43,099 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:27:44,334 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:27:44,350 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:27:44,838 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:27:45,894 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:27:46,060 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:27:47,764 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:27:48,116 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:27:48,180 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:27:48,204 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:27:48,228 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:28:14,975 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:28:25,627 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:28:25,691 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:28:27,208 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:28:27,216 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:28:28,798 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:28:29,732 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:28:31,564 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:28:31,570 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:28:33,457 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:28:33,480 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:28:33,904 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:28:33,904 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:28:34,032 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:28:35,240 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:28:35,370 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:28:37,657 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:28:38,238 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:28:39,405 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:28:39,445 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:28:46,037 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:28:46,413 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:28:46,751 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:28:48,731 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T15:28:48,887 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T15:28:50,135 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T15:28:50,315 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T15:28:50,323 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:28:50,323 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:28:50,330 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:28:51,919 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:28:56,087 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:28:56,087 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:29:26,204 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:29:26,517 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:32:12,996 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:32:13,092 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:32:16,000 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:32:17,983 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:32:17,991 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:32:19,409 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:32:19,435 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:32:20,606 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:32:20,938 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:32:20,946 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:32:22,555 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:32:26,262 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:32:26,270 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:32:26,326 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:32:26,398 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:32:26,862 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:33:06,704 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:33:06,775 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:33:09,761 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:33:11,981 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:33:11,981 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:33:13,243 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:33:13,274 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:33:13,618 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:33:14,738 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:33:14,931 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:33:16,763 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:33:17,141 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:33:17,333 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:33:17,381 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:33:23,613 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:33:25,932 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T15:33:26,594 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T15:33:27,753 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T15:33:27,835 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T15:33:27,835 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:33:27,835 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:33:27,843 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:33:29,445 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:33:33,054 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:33:33,054 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:33:33,095 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:34:03,215 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:34:03,583 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:38:03,179 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:38:03,245 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:38:06,011 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:38:08,146 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:38:08,153 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:38:09,501 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:38:09,562 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:38:09,874 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:38:10,941 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:38:11,053 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:38:13,021 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:38:13,398 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:38:13,558 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:38:13,630 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:38:19,877 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:38:22,148 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T15:38:22,328 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T15:38:23,784 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T15:38:23,862 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T15:38:23,862 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:38:23,862 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:38:23,870 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:38:25,468 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:38:29,351 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:38:29,351 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:38:29,379 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:38:59,528 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:38:59,684 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:40:44,445 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:40:44,516 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:40:47,324 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:40:48,991 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:40:49,000 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:40:50,313 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:40:50,336 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:40:50,768 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:40:51,944 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:40:52,080 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:40:53,808 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:40:54,275 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:40:55,307 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:40:55,355 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:41:01,022 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:41:03,442 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T15:41:03,591 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T15:41:05,209 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T15:41:05,412 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T15:41:05,420 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:41:05,428 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:41:05,612 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:41:07,724 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:41:12,162 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:41:12,162 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:41:12,191 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:41:12,263 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:41:12,959 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:41:52,018 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:41:52,081 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:41:54,997 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:41:57,089 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:41:57,090 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:41:58,366 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:41:58,396 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:41:58,860 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:41:59,885 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:42:00,020 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:42:02,092 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:42:03,944 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:42:06,062 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:42:09,906 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:42:09,906 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:42:09,959 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:42:20,854 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:42:21,285 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:43:40,657 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:43:40,754 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:43:43,525 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:43:45,495 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:43:45,503 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:43:46,759 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:43:46,795 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:43:47,187 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:43:48,250 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:43:48,384 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:43:50,463 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:43:52,353 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:43:52,363 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:43:54,527 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:43:59,268 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:43:59,268 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:43:59,294 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:44:29,376 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:44:29,555 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:46:37,475 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:46:37,572 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:46:40,275 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:46:42,445 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:46:42,455 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:46:43,840 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:46:43,853 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:46:44,165 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:46:45,228 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:46:45,387 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:46:47,365 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:46:49,850 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:46:49,859 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:46:51,406 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:46:55,978 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:46:55,978 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:46:56,015 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:47:22,279 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:47:34,590 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:49:26,447 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:49:26,508 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:49:29,332 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:49:31,347 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:49:31,347 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:49:32,947 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:49:32,982 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:49:33,294 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:49:34,390 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:49:34,552 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:49:36,499 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:49:36,863 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:49:38,015 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:49:38,055 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:49:44,347 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:49:46,976 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T15:49:47,156 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T15:49:48,556 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T15:49:48,641 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T15:49:48,641 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:49:48,641 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:49:48,649 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:49:50,242 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:49:54,233 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:49:54,233 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:49:54,274 [main] INFO  (Log.java:22) - Method to click on the seach jobs button
+2022-07-09T15:50:24,447 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:50:24,811 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:53:55,196 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:53:55,271 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:53:59,730 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:54:13,594 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:54:13,599 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:54:15,463 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:54:15,496 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:54:16,000 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:54:17,117 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:54:17,176 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:54:20,007 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:54:21,380 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:54:21,862 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:54:21,910 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:54:30,614 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:54:33,808 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T15:54:34,022 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T15:54:35,431 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T15:54:35,516 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T15:54:35,516 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:54:35,524 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:54:35,644 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:54:37,894 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:54:42,841 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:54:42,841 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:54:42,895 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:54:43,015 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:54:43,503 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:55:53,451 [main] INFO  (Log.java:22) - Inside before class 
+2022-07-09T15:55:53,524 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:55:56,619 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:55:58,691 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:55:58,699 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:56:00,084 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:56:00,134 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:56:00,422 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:56:01,496 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:56:01,617 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:56:03,857 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:56:04,673 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:56:05,401 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:56:05,497 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:56:11,274 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:56:13,593 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T15:56:13,761 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T15:56:14,865 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T15:56:14,968 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T15:56:14,968 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:56:14,976 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T15:56:15,064 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:56:15,064 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:58:13,440 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:58:16,359 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:58:18,572 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:58:18,581 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T15:58:20,045 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:58:20,059 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T15:58:20,371 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T15:58:21,440 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:58:21,581 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T15:58:24,012 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T15:58:24,463 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T15:58:25,527 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T15:58:25,574 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:58:31,485 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T15:58:33,927 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T15:58:34,088 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T15:58:35,183 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T15:58:35,268 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T15:58:35,268 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:58:35,276 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T15:58:35,276 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T15:58:39,245 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T15:58:39,245 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T15:58:39,276 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T15:58:39,572 [main] INFO  (Log.java:22) - Method to click on the seach jobs button
+2022-07-09T15:58:44,973 [main] INFO  (Log.java:22) - Method to search for a specific job title
+2022-07-09T15:58:45,192 [main] INFO  (Log.java:22) - Method to search for a specific location
+2022-07-09T15:58:45,596 [main] INFO  (Log.java:22) - Method to click on filter button
+2022-07-09T15:58:48,054 [main] INFO  (Log.java:22) - Method to click on a specific job from filtered list
+2022-07-09T15:59:18,521 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T15:59:18,793 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T16:02:16,136 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:02:19,430 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:02:21,608 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T16:02:21,613 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T16:02:23,038 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:02:23,066 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T16:02:23,586 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T16:02:24,658 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:02:24,816 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T16:02:27,242 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T16:02:29,119 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:02:29,119 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:03:24,614 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:03:27,771 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:03:30,506 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T16:03:30,511 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T16:03:31,850 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:03:31,876 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T16:03:32,276 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T16:03:33,535 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:03:33,722 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T16:03:35,871 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T16:03:37,621 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T16:03:39,563 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T16:03:39,628 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:03:47,935 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T16:03:50,305 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T16:03:50,432 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T16:03:52,156 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T16:03:52,285 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T16:03:52,288 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T16:03:52,297 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:03:52,297 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:03:57,492 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T16:03:57,493 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:03:57,517 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T16:03:57,841 [main] INFO  (Log.java:22) - Method to click on the seach jobs button
+2022-07-09T16:04:00,844 [main] INFO  (Log.java:22) - Method to search for a specific job title
+2022-07-09T16:04:01,313 [main] INFO  (Log.java:22) - Method to search for a specific location
+2022-07-09T16:04:01,453 [main] INFO  (Log.java:22) - Method to click on filter button
+2022-07-09T16:04:03,539 [main] INFO  (Log.java:22) - Method to click on a specific job from filtered list
+2022-07-09T16:04:04,376 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T16:04:06,934 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T16:05:26,397 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:05:29,452 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:05:31,510 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T16:05:31,514 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T16:05:33,005 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:05:33,032 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T16:05:33,994 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T16:05:34,252 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T16:05:35,903 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:05:35,904 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:06:12,717 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:06:15,747 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:06:18,072 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T16:06:18,076 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T16:06:19,412 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:06:19,541 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T16:06:19,966 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T16:06:21,005 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:06:21,204 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T16:06:23,475 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T16:06:24,150 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T16:06:25,184 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T16:06:25,269 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:06:31,967 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T16:06:35,004 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T16:06:35,188 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T16:06:36,358 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T16:06:36,458 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T16:06:36,462 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T16:06:36,469 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:06:36,470 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:06:40,701 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T16:06:40,702 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:06:40,756 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T16:06:41,111 [main] INFO  (Log.java:22) - Method to click on the seach jobs button
+2022-07-09T16:06:44,172 [main] INFO  (Log.java:22) - Method to search for a specific job title
+2022-07-09T16:06:44,667 [main] INFO  (Log.java:22) - Method to search for a specific location
+2022-07-09T16:06:44,825 [main] INFO  (Log.java:22) - Method to click on filter button
+2022-07-09T16:06:47,870 [main] INFO  (Log.java:22) - Method to click on a specific job from filtered list
+2022-07-09T16:06:51,077 [main] INFO  (Log.java:22) - Method to click apply now button
+2022-07-09T16:06:51,502 [main] INFO  (Log.java:22) - Method to click apply now button
+2022-07-09T16:06:51,609 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T16:06:55,296 [main] INFO  (Log.java:22) - Method to send password details
+2022-07-09T16:06:55,437 [main] INFO  (Log.java:22) - Method to Sign In button
+2022-07-09T16:06:57,936 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T16:06:57,995 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T16:06:57,996 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T16:06:57,997 [main] INFO  (Log.java:22) - Inside After Class
+2022-07-09T16:13:54,678 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:13:57,639 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:14:00,029 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T16:14:00,032 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2022-07-09T16:14:01,384 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:14:01,492 [main] INFO  (Log.java:22) - Method to click on Tv,Appliances &Electronics Menu
+2022-07-09T16:14:01,781 [main] INFO  (Log.java:22) - Method to click on Televisions
+2022-07-09T16:14:03,444 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:14:03,557 [main] INFO  (Log.java:22) - Method to Filter Samsung from a brand menu
+2022-07-09T16:14:05,500 [main] INFO  (Log.java:22) - Method to select the sorting the items
+2022-07-09T16:14:07,114 [main] INFO  (Log.java:22) - Method to retrieve second highest from the existing list of sorted items
+2022-07-09T16:14:08,083 [main] INFO  (Log.java:22) - Method to switch to a new window
+2022-07-09T16:14:08,129 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:14:15,597 [main] INFO  (Log.java:22) - Method to click on buy now widget
+2022-07-09T16:14:18,064 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T16:14:18,279 [main] INFO  (Log.java:22) - Method to click on continue button
+2022-07-09T16:14:19,764 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T16:14:19,859 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T16:14:19,866 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T16:14:19,879 [main] INFO  (Log.java:22) - Inside before method 
+2022-07-09T16:14:19,879 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-07-09T16:14:23,588 [main] INFO  (Log.java:22) - Test Started 
+2022-07-09T16:14:23,589 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:14:23,615 [main] INFO  (Log.java:22) - Method to Search the jobs
+2022-07-09T16:14:23,909 [main] INFO  (Log.java:22) - Method to click on the seach jobs button
+2022-07-09T16:14:27,374 [main] INFO  (Log.java:22) - Method to scroll down
+2022-07-09T16:14:27,424 [main] INFO  (Log.java:22) - Method to search for a specific job title
+2022-07-09T16:14:27,835 [main] INFO  (Log.java:22) - Method to search for a specific location
+2022-07-09T16:14:27,956 [main] INFO  (Log.java:22) - Method to click on filter button
+2022-07-09T16:14:30,189 [main] INFO  (Log.java:22) - Method to click on a specific job from filtered list
+2022-07-09T16:14:33,158 [main] INFO  (Log.java:22) - Method to click apply now button
+2022-07-09T16:14:33,606 [main] INFO  (Log.java:22) - Method to click apply now button
+2022-07-09T16:14:33,694 [main] INFO  (Log.java:22) - Method to send email details
+2022-07-09T16:14:46,427 [main] INFO  (Log.java:22) - Method to send password details
+2022-07-09T16:14:46,580 [main] INFO  (Log.java:22) - Method to Sign In button
+2022-07-09T16:14:48,671 [main] INFO  (Log.java:22) - Method to error msg on incorrect creds
+2022-07-09T16:14:48,728 [main] INFO  (Log.java:22) - Test Ended 
+2022-07-09T16:14:48,729 [main] INFO  (Log.java:22) - Inside After Method
+2022-07-09T16:14:48,730 [main] INFO  (Log.java:22) - Inside After Class
